@@ -1,0 +1,2 @@
+Devops is about Automation
+Devops also can use ci/cd
